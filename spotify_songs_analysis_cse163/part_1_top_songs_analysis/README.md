@@ -2,7 +2,7 @@ CSE163 Final Project Part 1 Top Songs Analysis README:
 
 *********************************************************************
 
-1. top_songs_analysis.py
+**1. top_songs_analysis.py**
 
 This .py module was written based on Altair package so you need
 to download the Altair and supporting packages on pip or conda.
@@ -16,7 +16,7 @@ charts, you need to create two folders first, one is called
 "Part1-1" and one is "Part1-2" or you will receive an error says
 directory not found.
 
-2. top_songs_analysis_test.py
+**2. top_songs_analysis_test.py**
 
 This is the test module for the top_songs_analysis.py so you need
 to have top_songs_analysis.py in the same folder and Altair & Pandas
@@ -28,7 +28,7 @@ you will receive the same error in the first part.
 
 *********************************************************************
 
-CSV files download instructions:
+**CSV files download instructions:**
 
 top_spotify_songs.csv:
 https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year
