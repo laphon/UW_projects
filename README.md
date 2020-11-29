@@ -7,5 +7,4 @@
 **spotify_songs_analysis_cse163**  
     <p>Data analysis on spotify songs retrieved from Spotify Web API. A data science project for CSE163 (Intermediate Data Programming).</p>
 <br>
-<br>
 <p>By Laphon Premcharoen</p>
